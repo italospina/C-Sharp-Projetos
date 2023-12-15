@@ -1,0 +1,9 @@
+C:\Users\estud\source\repos\Livraria\Cl_Model\obj\Debug\Cl_Model.csproj.AssemblyReference.cache
+C:\Users\estud\source\repos\Livraria\Cl_Model\obj\Debug\Cl_Model.Properties.Resources.resources
+C:\Users\estud\source\repos\Livraria\Cl_Model\obj\Debug\Cl_Model.csproj.GenerateResource.cache
+C:\Users\estud\source\repos\Livraria\Cl_Model\obj\Debug\Cl_Model.csproj.CoreCompileInputs.cache
+C:\Users\estud\source\repos\Livraria\Cl_Model\bin\Debug\Cl_Model.exe.config
+C:\Users\estud\source\repos\Livraria\Cl_Model\bin\Debug\Cl_Model.exe
+C:\Users\estud\source\repos\Livraria\Cl_Model\bin\Debug\Cl_Model.pdb
+C:\Users\estud\source\repos\Livraria\Cl_Model\obj\Debug\Cl_Model.exe
+C:\Users\estud\source\repos\Livraria\Cl_Model\obj\Debug\Cl_Model.pdb

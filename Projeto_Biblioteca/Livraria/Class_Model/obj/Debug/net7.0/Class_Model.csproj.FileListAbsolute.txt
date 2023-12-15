@@ -1,0 +1,11 @@
+C:\Users\estud\source\repos\Livraria\Class_Model\bin\Debug\net7.0\Class_Model.deps.json
+C:\Users\estud\source\repos\Livraria\Class_Model\bin\Debug\net7.0\Class_Model.dll
+C:\Users\estud\source\repos\Livraria\Class_Model\bin\Debug\net7.0\Class_Model.pdb
+C:\Users\estud\source\repos\Livraria\Class_Model\obj\Debug\net7.0\Class_Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estud\source\repos\Livraria\Class_Model\obj\Debug\net7.0\Class_Model.AssemblyInfoInputs.cache
+C:\Users\estud\source\repos\Livraria\Class_Model\obj\Debug\net7.0\Class_Model.AssemblyInfo.cs
+C:\Users\estud\source\repos\Livraria\Class_Model\obj\Debug\net7.0\Class_Model.csproj.CoreCompileInputs.cache
+C:\Users\estud\source\repos\Livraria\Class_Model\obj\Debug\net7.0\Class_Model.dll
+C:\Users\estud\source\repos\Livraria\Class_Model\obj\Debug\net7.0\refint\Class_Model.dll
+C:\Users\estud\source\repos\Livraria\Class_Model\obj\Debug\net7.0\Class_Model.pdb
+C:\Users\estud\source\repos\Livraria\Class_Model\obj\Debug\net7.0\ref\Class_Model.dll

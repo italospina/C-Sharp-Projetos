@@ -1,0 +1,11 @@
+C:\Users\estud\source\repos\Livraria\Class_Bll\bin\Debug\net6.0\Class_Bll.deps.json
+C:\Users\estud\source\repos\Livraria\Class_Bll\bin\Debug\net6.0\Class_Bll.dll
+C:\Users\estud\source\repos\Livraria\Class_Bll\bin\Debug\net6.0\Class_Bll.pdb
+C:\Users\estud\source\repos\Livraria\Class_Bll\obj\Debug\net6.0\Class_Bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estud\source\repos\Livraria\Class_Bll\obj\Debug\net6.0\Class_Bll.AssemblyInfoInputs.cache
+C:\Users\estud\source\repos\Livraria\Class_Bll\obj\Debug\net6.0\Class_Bll.AssemblyInfo.cs
+C:\Users\estud\source\repos\Livraria\Class_Bll\obj\Debug\net6.0\Class_Bll.csproj.CoreCompileInputs.cache
+C:\Users\estud\source\repos\Livraria\Class_Bll\obj\Debug\net6.0\Class_Bll.dll
+C:\Users\estud\source\repos\Livraria\Class_Bll\obj\Debug\net6.0\refint\Class_Bll.dll
+C:\Users\estud\source\repos\Livraria\Class_Bll\obj\Debug\net6.0\Class_Bll.pdb
+C:\Users\estud\source\repos\Livraria\Class_Bll\obj\Debug\net6.0\ref\Class_Bll.dll

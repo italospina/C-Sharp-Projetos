@@ -1,0 +1,13 @@
+C:\Users\estud\source\repos\Livraria\Cl_Dal\bin\Debug\Cl_Dal.dll.config
+C:\Users\estud\source\repos\Livraria\Cl_Dal\bin\Debug\Cl_Dal.dll
+C:\Users\estud\source\repos\Livraria\Cl_Dal\bin\Debug\Cl_Dal.pdb
+C:\Users\estud\source\repos\Livraria\Cl_Dal\obj\Debug\Cl_Dal.csproj.AssemblyReference.cache
+C:\Users\estud\source\repos\Livraria\Cl_Dal\obj\Debug\Cl_Dal.Properties.Resources.resources
+C:\Users\estud\source\repos\Livraria\Cl_Dal\obj\Debug\Cl_Dal.csproj.GenerateResource.cache
+C:\Users\estud\source\repos\Livraria\Cl_Dal\obj\Debug\Cl_Dal.csproj.CoreCompileInputs.cache
+C:\Users\estud\source\repos\Livraria\Cl_Dal\obj\Debug\Cl_Dal.dll
+C:\Users\estud\source\repos\Livraria\Cl_Dal\obj\Debug\Cl_Dal.pdb
+C:\Users\estud\source\repos\Livraria\Cl_Dal\bin\Debug\Cl_Model.exe
+C:\Users\estud\source\repos\Livraria\Cl_Dal\bin\Debug\Cl_Model.pdb
+C:\Users\estud\source\repos\Livraria\Cl_Dal\bin\Debug\Cl_Model.exe.config
+C:\Users\estud\source\repos\Livraria\Cl_Dal\obj\Debug\Cl_Dal.csproj.CopyComplete

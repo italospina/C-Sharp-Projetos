@@ -1,0 +1,12 @@
+C:\Users\estud\source\repos\Livraria\Class_Dal\bin\Debug\net7.0-windows10.0.17763.0\Class_Dal.deps.json
+C:\Users\estud\source\repos\Livraria\Class_Dal\bin\Debug\net7.0-windows10.0.17763.0\Class_Dal.dll
+C:\Users\estud\source\repos\Livraria\Class_Dal\bin\Debug\net7.0-windows10.0.17763.0\Class_Dal.pdb
+C:\Users\estud\source\repos\Livraria\Class_Dal\obj\Debug\net7.0-windows10.0.17763.0\Class_Dal.csproj.AssemblyReference.cache
+C:\Users\estud\source\repos\Livraria\Class_Dal\obj\Debug\net7.0-windows10.0.17763.0\Class_Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estud\source\repos\Livraria\Class_Dal\obj\Debug\net7.0-windows10.0.17763.0\Class_Dal.AssemblyInfoInputs.cache
+C:\Users\estud\source\repos\Livraria\Class_Dal\obj\Debug\net7.0-windows10.0.17763.0\Class_Dal.AssemblyInfo.cs
+C:\Users\estud\source\repos\Livraria\Class_Dal\obj\Debug\net7.0-windows10.0.17763.0\Class_Dal.csproj.CoreCompileInputs.cache
+C:\Users\estud\source\repos\Livraria\Class_Dal\obj\Debug\net7.0-windows10.0.17763.0\Class_Dal.dll
+C:\Users\estud\source\repos\Livraria\Class_Dal\obj\Debug\net7.0-windows10.0.17763.0\refint\Class_Dal.dll
+C:\Users\estud\source\repos\Livraria\Class_Dal\obj\Debug\net7.0-windows10.0.17763.0\Class_Dal.pdb
+C:\Users\estud\source\repos\Livraria\Class_Dal\obj\Debug\net7.0-windows10.0.17763.0\ref\Class_Dal.dll

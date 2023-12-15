@@ -1,0 +1,5 @@
+C:\Users\estud\source\repos\Livraria\Class_Dal\obj\Debug\netcoreapp3.0\Class_Dal.csproj.AssemblyReference.cache
+C:\Users\estud\source\repos\Livraria\Class_Dal\obj\Debug\netcoreapp3.0\Class_Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estud\source\repos\Livraria\Class_Dal\obj\Debug\netcoreapp3.0\Class_Dal.AssemblyInfoInputs.cache
+C:\Users\estud\source\repos\Livraria\Class_Dal\obj\Debug\netcoreapp3.0\Class_Dal.AssemblyInfo.cs
+C:\Users\estud\source\repos\Livraria\Class_Dal\obj\Debug\netcoreapp3.0\Class_Dal.csproj.CoreCompileInputs.cache
