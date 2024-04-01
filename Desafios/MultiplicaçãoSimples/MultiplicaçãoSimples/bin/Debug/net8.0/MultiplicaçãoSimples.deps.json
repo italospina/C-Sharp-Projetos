@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MultiplicaçãoSimples/1.0.0": {
+        "runtime": {
+          "MultiplicaçãoSimples.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MultiplicaçãoSimples/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
