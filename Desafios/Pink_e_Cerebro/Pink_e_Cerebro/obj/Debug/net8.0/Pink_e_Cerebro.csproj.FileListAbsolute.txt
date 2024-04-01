@@ -1,0 +1,15 @@
+C:\Users\estud\source\repos\Pink_e_Cerebro\Pink_e_Cerebro\bin\Debug\net8.0\Pink_e_Cerebro.exe
+C:\Users\estud\source\repos\Pink_e_Cerebro\Pink_e_Cerebro\bin\Debug\net8.0\Pink_e_Cerebro.deps.json
+C:\Users\estud\source\repos\Pink_e_Cerebro\Pink_e_Cerebro\bin\Debug\net8.0\Pink_e_Cerebro.runtimeconfig.json
+C:\Users\estud\source\repos\Pink_e_Cerebro\Pink_e_Cerebro\bin\Debug\net8.0\Pink_e_Cerebro.dll
+C:\Users\estud\source\repos\Pink_e_Cerebro\Pink_e_Cerebro\bin\Debug\net8.0\Pink_e_Cerebro.pdb
+C:\Users\estud\source\repos\Pink_e_Cerebro\Pink_e_Cerebro\obj\Debug\net8.0\Pink_e_Cerebro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estud\source\repos\Pink_e_Cerebro\Pink_e_Cerebro\obj\Debug\net8.0\Pink_e_Cerebro.AssemblyInfoInputs.cache
+C:\Users\estud\source\repos\Pink_e_Cerebro\Pink_e_Cerebro\obj\Debug\net8.0\Pink_e_Cerebro.AssemblyInfo.cs
+C:\Users\estud\source\repos\Pink_e_Cerebro\Pink_e_Cerebro\obj\Debug\net8.0\Pink_e_Cerebro.csproj.CoreCompileInputs.cache
+C:\Users\estud\source\repos\Pink_e_Cerebro\Pink_e_Cerebro\obj\Debug\net8.0\Pink_e_Cerebro.sourcelink.json
+C:\Users\estud\source\repos\Pink_e_Cerebro\Pink_e_Cerebro\obj\Debug\net8.0\Pink_e_Cerebro.dll
+C:\Users\estud\source\repos\Pink_e_Cerebro\Pink_e_Cerebro\obj\Debug\net8.0\refint\Pink_e_Cerebro.dll
+C:\Users\estud\source\repos\Pink_e_Cerebro\Pink_e_Cerebro\obj\Debug\net8.0\Pink_e_Cerebro.pdb
+C:\Users\estud\source\repos\Pink_e_Cerebro\Pink_e_Cerebro\obj\Debug\net8.0\Pink_e_Cerebro.genruntimeconfig.cache
+C:\Users\estud\source\repos\Pink_e_Cerebro\Pink_e_Cerebro\obj\Debug\net8.0\ref\Pink_e_Cerebro.dll
