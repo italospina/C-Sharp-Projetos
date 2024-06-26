@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y5/rU64yaTZCu2hfqQZ2Dp9q80aSWnTkZerLHuPoWynexYp/B7c4Q/o0xiHOb1a8GwfVbYcyMJFRKhZtmp2TWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\estud\\source\\repos\\Projeto_Hospedagem\\Projeto_Hospedagem\\Projeto_Hospedagem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\estud\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

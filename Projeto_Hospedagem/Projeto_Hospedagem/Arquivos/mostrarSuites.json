@@ -1,0 +1,38 @@
+[
+  {
+    "IdSuite": 0,
+    "TipoSuite": "Simples",
+    "Capacidade": 1,
+    "ValorDiaria": 35.0
+  },
+  {
+    "IdSuite": 1,
+    "TipoSuite": "Basica",
+    "Capacidade": 2,
+    "ValorDiaria": 50.0
+  },
+  {
+    "IdSuite": 2,
+    "TipoSuite": "Média",
+    "Capacidade": 3,
+    "ValorDiaria": 75.0
+  },
+  {
+    "IdSuite": 3,
+    "TipoSuite": "Plus",
+    "Capacidade": 4,
+    "ValorDiaria": 125.0
+  },
+  {
+    "IdSuite": 4,
+    "TipoSuite": "Premium",
+    "Capacidade": 6,
+    "ValorDiaria": 200.0
+  },
+  {
+    "IdSuite": 5,
+    "TipoSuite": "Rei",
+    "Capacidade": 20,
+    "ValorDiaria": 5000.0
+  }
+]

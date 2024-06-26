@@ -1,0 +1,30 @@
+[
+  {
+    "Id": 1,
+    "Nome_Produto": "Aço",
+    "Preco": 50.00,
+    "DataVenda": "2024-05-28T23:30:43.6825802-03:00",
+    "Desconto": 5
+  },
+  {
+    "Id": 2,
+    "Nome_Produto": "Madeira",
+    "Preco": 10.00,
+    "DataVenda": "2024-05-28T23:30:43.6825802-03:00",
+    "Desconto":  10
+  },
+  {
+    "Id": 3,
+    "Nome_Produto": "Pedra",
+    "Preco": 25.00,
+    "DataVenda": "2024-05-28T23:30:43.6825802-03:00",
+    "Desconto": null
+  },
+  {
+    "Id": 4,
+    "Nome_Produto": "Ouro",
+    "Preco": 100.00,
+    "DataVenda": "2024-05-28T23:30:43.6825802-03:00",
+    "Desconto": null
+  }
+]
