@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\estud\\source\\repos\\Esfera\\Esfera\\Esfera.csproj",
+      "projectUniqueName": "C:\\Users\\estud\\source\\repos\\Desafios\\Esfera\\Esfera\\Esfera.csproj",
       "projectName": "Esfera",
-      "projectPath": "C:\\Users\\estud\\source\\repos\\Esfera\\Esfera\\Esfera.csproj",
+      "projectPath": "C:\\Users\\estud\\source\\repos\\Desafios\\Esfera\\Esfera\\Esfera.csproj",
       "packagesPath": "C:\\Users\\estud\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\estud\\source\\repos\\Esfera\\Esfera\\obj\\",
+      "outputPath": "C:\\Users\\estud\\source\\repos\\Desafios\\Esfera\\Esfera\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\estud\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.103/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.106/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

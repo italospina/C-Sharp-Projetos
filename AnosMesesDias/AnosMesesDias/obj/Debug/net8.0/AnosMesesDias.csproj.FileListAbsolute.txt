@@ -1,0 +1,15 @@
+C:\Users\estud\source\repos\AnosMesesDias\AnosMesesDias\bin\Debug\net8.0\AnosMesesDias.exe
+C:\Users\estud\source\repos\AnosMesesDias\AnosMesesDias\bin\Debug\net8.0\AnosMesesDias.deps.json
+C:\Users\estud\source\repos\AnosMesesDias\AnosMesesDias\bin\Debug\net8.0\AnosMesesDias.runtimeconfig.json
+C:\Users\estud\source\repos\AnosMesesDias\AnosMesesDias\bin\Debug\net8.0\AnosMesesDias.dll
+C:\Users\estud\source\repos\AnosMesesDias\AnosMesesDias\bin\Debug\net8.0\AnosMesesDias.pdb
+C:\Users\estud\source\repos\AnosMesesDias\AnosMesesDias\obj\Debug\net8.0\AnosMesesDias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estud\source\repos\AnosMesesDias\AnosMesesDias\obj\Debug\net8.0\AnosMesesDias.AssemblyInfoInputs.cache
+C:\Users\estud\source\repos\AnosMesesDias\AnosMesesDias\obj\Debug\net8.0\AnosMesesDias.AssemblyInfo.cs
+C:\Users\estud\source\repos\AnosMesesDias\AnosMesesDias\obj\Debug\net8.0\AnosMesesDias.csproj.CoreCompileInputs.cache
+C:\Users\estud\source\repos\AnosMesesDias\AnosMesesDias\obj\Debug\net8.0\AnosMesesDias.sourcelink.json
+C:\Users\estud\source\repos\AnosMesesDias\AnosMesesDias\obj\Debug\net8.0\AnosMesesDias.dll
+C:\Users\estud\source\repos\AnosMesesDias\AnosMesesDias\obj\Debug\net8.0\refint\AnosMesesDias.dll
+C:\Users\estud\source\repos\AnosMesesDias\AnosMesesDias\obj\Debug\net8.0\AnosMesesDias.pdb
+C:\Users\estud\source\repos\AnosMesesDias\AnosMesesDias\obj\Debug\net8.0\AnosMesesDias.genruntimeconfig.cache
+C:\Users\estud\source\repos\AnosMesesDias\AnosMesesDias\obj\Debug\net8.0\ref\AnosMesesDias.dll

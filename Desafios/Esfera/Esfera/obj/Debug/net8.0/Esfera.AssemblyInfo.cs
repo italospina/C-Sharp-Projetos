@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Esfera")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99fe27b1838b35c6d9b0440e5c7ece44895dbb40")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2461f71fcb8f71d698e5b43d9730a5ba7552b8b2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Esfera")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Esfera")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

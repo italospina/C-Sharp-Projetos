@@ -6,10 +6,15 @@ using System.Text;
 using System.Threading.Tasks;
 
 using Newtonsoft.Json;
+using Exemplos_Esplorando.Interfaces;
 
-int numero = 15;
-bool par = false;
+//cria um objeto pessoa
+//Pessoa pessoa = new Pessoa("Leonardo");
+//Aluno aluno = new Aluno("Eduardo");
 
-par = numero.EhPar();
-Console.WriteLine($"o NUMERO {numero} é " + (par ? "par" : "impar"));
 
+//Computador computador = new Computador();
+//Console.WriteLine(computador.ToString());
+
+//ICalculadora calculadora = new Calculadora();
+//Console.WriteLine(calculadora.Multiplicar(5, 5));
