@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\estud\\source\\repos\\Modulo_Dio_Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7B79EE-BCCD-42CF-9D27-88824A5F5EAE}|Modulo_Dio_Api\\Modulo_Dio_Api.csproj|c:\\users\\estud\\source\\repos\\modulo_dio_api\\modulo_dio_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB7B79EE-BCCD-42CF-9D27-88824A5F5EAE}|Modulo_Dio_Api\\Modulo_Dio_Api.csproj|solutionrelative:modulo_dio_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7B79EE-BCCD-42CF-9D27-88824A5F5EAE}|Modulo_Dio_Api\\Modulo_Dio_Api.csproj|c:\\users\\estud\\source\\repos\\modulo_dio_api\\modulo_dio_api\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB7B79EE-BCCD-42CF-9D27-88824A5F5EAE}|Modulo_Dio_Api\\Modulo_Dio_Api.csproj|solutionrelative:modulo_dio_api\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7B79EE-BCCD-42CF-9D27-88824A5F5EAE}|Modulo_Dio_Api\\Modulo_Dio_Api.csproj|c:\\users\\estud\\source\\repos\\modulo_dio_api\\modulo_dio_api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FB7B79EE-BCCD-42CF-9D27-88824A5F5EAE}|Modulo_Dio_Api\\Modulo_Dio_Api.csproj|solutionrelative:modulo_dio_api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7B79EE-BCCD-42CF-9D27-88824A5F5EAE}|Modulo_Dio_Api\\Modulo_Dio_Api.csproj|c:\\users\\estud\\source\\repos\\modulo_dio_api\\modulo_dio_api\\context\\agendacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB7B79EE-BCCD-42CF-9D27-88824A5F5EAE}|Modulo_Dio_Api\\Modulo_Dio_Api.csproj|solutionrelative:modulo_dio_api\\context\\agendacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7B79EE-BCCD-42CF-9D27-88824A5F5EAE}|Modulo_Dio_Api\\Modulo_Dio_Api.csproj|c:\\users\\estud\\source\\repos\\modulo_dio_api\\modulo_dio_api\\entities\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB7B79EE-BCCD-42CF-9D27-88824A5F5EAE}|Modulo_Dio_Api\\Modulo_Dio_Api.csproj|solutionrelative:modulo_dio_api\\entities\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7B79EE-BCCD-42CF-9D27-88824A5F5EAE}|Modulo_Dio_Api\\Modulo_Dio_Api.csproj|c:\\users\\estud\\source\\repos\\modulo_dio_api\\modulo_dio_api\\modulo_dio_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FB7B79EE-BCCD-42CF-9D27-88824A5F5EAE}|Modulo_Dio_Api\\Modulo_Dio_Api.csproj|solutionrelative:modulo_dio_api\\modulo_dio_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 387,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContatoController.cs",
+              "DocumentMoniker": "C:\\Users\\estud\\source\\repos\\Modulo_Dio_Api\\Modulo_Dio_Api\\Controllers\\ContatoController.cs",
+              "RelativeDocumentMoniker": "Modulo_Dio_Api\\Controllers\\ContatoController.cs",
+              "ToolTip": "C:\\Users\\estud\\source\\repos\\Modulo_Dio_Api\\Modulo_Dio_Api\\Controllers\\ContatoController.cs",
+              "RelativeToolTip": "Modulo_Dio_Api\\Controllers\\ContatoController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwCAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T20:59:13.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\estud\\source\\repos\\Modulo_Dio_Api\\Modulo_Dio_Api\\Program.cs",
+              "RelativeDocumentMoniker": "Modulo_Dio_Api\\Program.cs",
+              "ToolTip": "C:\\Users\\estud\\source\\repos\\Modulo_Dio_Api\\Modulo_Dio_Api\\Program.cs",
+              "RelativeToolTip": "Modulo_Dio_Api\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAWwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T20:19:08.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\estud\\source\\repos\\Modulo_Dio_Api\\Modulo_Dio_Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Modulo_Dio_Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\estud\\source\\repos\\Modulo_Dio_Api\\Modulo_Dio_Api\\appsettings.Development.json",
+              "RelativeToolTip": "Modulo_Dio_Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-08T20:11:46.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AgendaContext.cs",
+              "DocumentMoniker": "C:\\Users\\estud\\source\\repos\\Modulo_Dio_Api\\Modulo_Dio_Api\\Context\\AgendaContext.cs",
+              "RelativeDocumentMoniker": "Modulo_Dio_Api\\Context\\AgendaContext.cs",
+              "ToolTip": "C:\\Users\\estud\\source\\repos\\Modulo_Dio_Api\\Modulo_Dio_Api\\Context\\AgendaContext.cs",
+              "RelativeToolTip": "Modulo_Dio_Api\\Context\\AgendaContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T20:00:15.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Modulo_Dio_Api.csproj",
+              "DocumentMoniker": "C:\\Users\\estud\\source\\repos\\Modulo_Dio_Api\\Modulo_Dio_Api\\Modulo_Dio_Api.csproj",
+              "RelativeDocumentMoniker": "Modulo_Dio_Api\\Modulo_Dio_Api.csproj",
+              "ToolTip": "C:\\Users\\estud\\source\\repos\\Modulo_Dio_Api\\Modulo_Dio_Api\\Modulo_Dio_Api.csproj",
+              "RelativeToolTip": "Modulo_Dio_Api\\Modulo_Dio_Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-08T19:58:30.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contato.cs",
+              "DocumentMoniker": "C:\\Users\\estud\\source\\repos\\Modulo_Dio_Api\\Modulo_Dio_Api\\Entities\\Contato.cs",
+              "RelativeDocumentMoniker": "Modulo_Dio_Api\\Entities\\Contato.cs",
+              "ToolTip": "C:\\Users\\estud\\source\\repos\\Modulo_Dio_Api\\Modulo_Dio_Api\\Entities\\Contato.cs",
+              "RelativeToolTip": "Modulo_Dio_Api\\Entities\\Contato.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T19:49:57.439Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 387,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

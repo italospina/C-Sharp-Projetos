@@ -1,0 +1,56 @@
+﻿<!--Especifica que o modelo utilizado por esta visualização é do tipo Contato.-->
+@model Projeto_MVC.Models.Contato
+
+<!--Define o título da página como "Editar contato".-->
+@{
+    ViewData["Title"] = "Editar Contato";
+}
+
+<h1>Editar Contato</h1>
+
+<hr />
+
+<div class="row">
+    <div class="col-md-4">
+        <!-- Cria um formulário que será enviado para a ação "Editar" no ContatoController quando o formulário for submetido. -->
+        <form asp-action="Editar">
+            <!-- Campo de entrada para o nome do contato. -->
+            <div class="form-group">
+                <!-- Label para o campo 'Nome', gerada automaticamente com base no modelo. -->
+                <label asp-for="Nome" class="control-label"></label>
+                <!-- Campo de entrada (input) para o 'Nome' do contato, vinculado ao modelo. -->
+                <input asp-for="Nome" class="form-control" />
+            </div>
+
+            <!-- Campo de entrada para o telefone do contato. -->
+            <div class="form-group">
+                <!-- Label para o campo 'Telefone', gerada automaticamente com base no modelo. -->
+                <label asp-for="Telefone" class="control-label"></label>
+                <!-- Campo de entrada (input) para o 'Telefone' do contato, vinculado ao modelo. -->
+                <input asp-for="Telefone" class="form-control" />
+            </div>
+
+            <!-- Campo de entrada para marcar se o contato está ativo. -->
+            <div class="form-group">
+                <!-- Label para o campo 'Ativo', gerada automaticamente com base no modelo. -->
+                <label asp-for="Ativo" class="control-label"></label>
+                <!-- Campo do tipo checkbox para o campo 'Ativo', vinculado ao modelo. -->
+                <input type="checkbox" asp-for="Ativo" class="form-check-input" />
+            </div>
+
+            <br />
+
+            <!-- Botão de submissão do formulário. -->
+            <div class="form-group">
+                <input type="submit" value="Editar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<br />
+
+<!-- Link para voltar à página de listagem de contatos. -->
+<div>
+    <a asp-action="Index">Voltar</a>
+</div>

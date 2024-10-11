@@ -1,0 +1,68 @@
+﻿<!-- Especifica que o modelo utilizado por esta visualização é uma coleção (IEnumerable) de objetos do tipo Contato. -->
+@model IEnumerable<Projeto_MVC.Models.Contato>
+
+@{
+    // Define o título da página como "Lista de Contatos".
+    ViewData["Title"] = "Lista de Contatos";
+}
+
+<h2>Contatos</h2>
+
+<p>
+    <!-- Link para a página de criação de um novo contato. -->
+    <a asp-action="Criar"> Novo Contato</a>
+</p>
+
+<!-- Cria uma tabela para exibir a lista de contatos. -->
+<table class="table">
+    <thead>
+        <tr>
+            <!-- Cabeçalhos da tabela, exibindo os nomes das propriedades dos contatos. -->
+            <th>
+                @Html.DisplayNameFor(model => model.Id) <!-- Nome da coluna "Id" -->
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nome) <!-- Nome da coluna "Nome" -->
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Telefone) <!-- Nome da coluna "Telefone" -->
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Ativo) <!-- Nome da coluna "Ativo" -->
+            </th>
+            <th>
+                <!-- Coluna vazia para ações (Editar, Detalhes, Deletar). -->
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <!-- Loop através de cada item do modelo (lista de contatos) para criar uma linha da tabela para cada contato. -->
+        @foreach (var item in Model)
+        {
+            <tr>
+                <!-- Exibe o valor do Id do contato. -->
+                <td>
+                    @Html.DisplayFor(model => item.Id)
+                </td>
+                <!-- Exibe o valor do Nome do contato. -->
+                <td>
+                    @Html.DisplayFor(model => item.Nome)
+                </td>
+                <!-- Exibe o valor do Telefone do contato. -->
+                <td>
+                    @Html.DisplayFor(model => item.Telefone)
+                </td>
+                <!-- Exibe se o contato está ativo (true/false). -->
+                <td>
+                    @Html.DisplayFor(model => item.Ativo)
+                </td>
+                <!-- Links para ações (Editar, Detalhes, Deletar) para cada contato, usando o Id do contato como parâmetro. -->
+                <td>
+                    <a asp-action="Editar" asp-route-id="@item.Id">Editar</a> |
+                    <a asp-action="Detalhes" asp-route-id="@item.Id">Detalhes</a> |
+                    <a asp-action="Deletar" asp-route-id="@item.Id">Deletar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

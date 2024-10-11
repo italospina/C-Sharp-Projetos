@@ -1,0 +1,276 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\estud\\source\\repos\\Projeto_MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA197FDB-F971-4879-85A0-2D8C6BC32071}|Projeto_MVC\\Projeto_MVC.csproj|c:\\users\\estud\\source\\repos\\projeto_mvc\\projeto_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA197FDB-F971-4879-85A0-2D8C6BC32071}|Projeto_MVC\\Projeto_MVC.csproj|solutionrelative:projeto_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA197FDB-F971-4879-85A0-2D8C6BC32071}|Projeto_MVC\\Projeto_MVC.csproj|c:\\users\\estud\\source\\repos\\projeto_mvc\\projeto_mvc\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA197FDB-F971-4879-85A0-2D8C6BC32071}|Projeto_MVC\\Projeto_MVC.csproj|solutionrelative:projeto_mvc\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA197FDB-F971-4879-85A0-2D8C6BC32071}|Projeto_MVC\\Projeto_MVC.csproj|c:\\users\\estud\\source\\repos\\projeto_mvc\\projeto_mvc\\views\\contato\\deletar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA197FDB-F971-4879-85A0-2D8C6BC32071}|Projeto_MVC\\Projeto_MVC.csproj|solutionrelative:projeto_mvc\\views\\contato\\deletar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA197FDB-F971-4879-85A0-2D8C6BC32071}|Projeto_MVC\\Projeto_MVC.csproj|c:\\users\\estud\\source\\repos\\projeto_mvc\\projeto_mvc\\views\\contato\\detalhes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA197FDB-F971-4879-85A0-2D8C6BC32071}|Projeto_MVC\\Projeto_MVC.csproj|solutionrelative:projeto_mvc\\views\\contato\\detalhes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA197FDB-F971-4879-85A0-2D8C6BC32071}|Projeto_MVC\\Projeto_MVC.csproj|c:\\users\\estud\\source\\repos\\projeto_mvc\\projeto_mvc\\views\\contato\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA197FDB-F971-4879-85A0-2D8C6BC32071}|Projeto_MVC\\Projeto_MVC.csproj|solutionrelative:projeto_mvc\\views\\contato\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA197FDB-F971-4879-85A0-2D8C6BC32071}|Projeto_MVC\\Projeto_MVC.csproj|c:\\users\\estud\\source\\repos\\projeto_mvc\\projeto_mvc\\views\\contato\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA197FDB-F971-4879-85A0-2D8C6BC32071}|Projeto_MVC\\Projeto_MVC.csproj|solutionrelative:projeto_mvc\\views\\contato\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA197FDB-F971-4879-85A0-2D8C6BC32071}|Projeto_MVC\\Projeto_MVC.csproj|c:\\users\\estud\\source\\repos\\projeto_mvc\\projeto_mvc\\views\\contato\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA197FDB-F971-4879-85A0-2D8C6BC32071}|Projeto_MVC\\Projeto_MVC.csproj|solutionrelative:projeto_mvc\\views\\contato\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA197FDB-F971-4879-85A0-2D8C6BC32071}|Projeto_MVC\\Projeto_MVC.csproj|c:\\users\\estud\\source\\repos\\projeto_mvc\\projeto_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA197FDB-F971-4879-85A0-2D8C6BC32071}|Projeto_MVC\\Projeto_MVC.csproj|solutionrelative:projeto_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA197FDB-F971-4879-85A0-2D8C6BC32071}|Projeto_MVC\\Projeto_MVC.csproj|c:\\users\\estud\\source\\repos\\projeto_mvc\\projeto_mvc\\models\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA197FDB-F971-4879-85A0-2D8C6BC32071}|Projeto_MVC\\Projeto_MVC.csproj|solutionrelative:projeto_mvc\\models\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA197FDB-F971-4879-85A0-2D8C6BC32071}|Projeto_MVC\\Projeto_MVC.csproj|c:\\users\\estud\\source\\repos\\projeto_mvc\\projeto_mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA197FDB-F971-4879-85A0-2D8C6BC32071}|Projeto_MVC\\Projeto_MVC.csproj|solutionrelative:projeto_mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA197FDB-F971-4879-85A0-2D8C6BC32071}|Projeto_MVC\\Projeto_MVC.csproj|c:\\users\\estud\\source\\repos\\projeto_mvc\\projeto_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA197FDB-F971-4879-85A0-2D8C6BC32071}|Projeto_MVC\\Projeto_MVC.csproj|solutionrelative:projeto_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA197FDB-F971-4879-85A0-2D8C6BC32071}|Projeto_MVC\\Projeto_MVC.csproj|c:\\users\\estud\\source\\repos\\projeto_mvc\\projeto_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA197FDB-F971-4879-85A0-2D8C6BC32071}|Projeto_MVC\\Projeto_MVC.csproj|solutionrelative:projeto_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA197FDB-F971-4879-85A0-2D8C6BC32071}|Projeto_MVC\\Projeto_MVC.csproj|c:\\users\\estud\\source\\repos\\projeto_mvc\\projeto_mvc\\context\\agendacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA197FDB-F971-4879-85A0-2D8C6BC32071}|Projeto_MVC\\Projeto_MVC.csproj|solutionrelative:projeto_mvc\\context\\agendacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA197FDB-F971-4879-85A0-2D8C6BC32071}|Projeto_MVC\\Projeto_MVC.csproj|c:\\users\\estud\\source\\repos\\projeto_mvc\\projeto_mvc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA197FDB-F971-4879-85A0-2D8C6BC32071}|Projeto_MVC\\Projeto_MVC.csproj|solutionrelative:projeto_mvc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 387,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\estud\\source\\repos\\Projeto_MVC\\Projeto_MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Projeto_MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\estud\\source\\repos\\Projeto_MVC\\Projeto_MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Projeto_MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T16:47:18.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Deletar.cshtml",
+              "DocumentMoniker": "C:\\Users\\estud\\source\\repos\\Projeto_MVC\\Projeto_MVC\\Views\\Contato\\Deletar.cshtml",
+              "RelativeDocumentMoniker": "Projeto_MVC\\Views\\Contato\\Deletar.cshtml",
+              "ToolTip": "C:\\Users\\estud\\source\\repos\\Projeto_MVC\\Projeto_MVC\\Views\\Contato\\Deletar.cshtml",
+              "RelativeToolTip": "Projeto_MVC\\Views\\Contato\\Deletar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T16:07:27.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Detalhes.cshtml",
+              "DocumentMoniker": "C:\\Users\\estud\\source\\repos\\Projeto_MVC\\Projeto_MVC\\Views\\Contato\\Detalhes.cshtml",
+              "RelativeDocumentMoniker": "Projeto_MVC\\Views\\Contato\\Detalhes.cshtml",
+              "ToolTip": "C:\\Users\\estud\\source\\repos\\Projeto_MVC\\Projeto_MVC\\Views\\Contato\\Detalhes.cshtml",
+              "RelativeToolTip": "Projeto_MVC\\Views\\Contato\\Detalhes.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T15:44:04.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\estud\\source\\repos\\Projeto_MVC\\Projeto_MVC\\Views\\Contato\\Editar.cshtml",
+              "RelativeDocumentMoniker": "Projeto_MVC\\Views\\Contato\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\estud\\source\\repos\\Projeto_MVC\\Projeto_MVC\\Views\\Contato\\Editar.cshtml",
+              "RelativeToolTip": "Projeto_MVC\\Views\\Contato\\Editar.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAwwC8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T15:22:50.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\estud\\source\\repos\\Projeto_MVC\\Projeto_MVC\\Views\\Contato\\Index.cshtml",
+              "RelativeDocumentMoniker": "Projeto_MVC\\Views\\Contato\\Index.cshtml",
+              "ToolTip": "C:\\Users\\estud\\source\\repos\\Projeto_MVC\\Projeto_MVC\\Views\\Contato\\Index.cshtml",
+              "RelativeToolTip": "Projeto_MVC\\Views\\Contato\\Index.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAYwDgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T00:00:13.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContatoController.cs",
+              "DocumentMoniker": "C:\\Users\\estud\\source\\repos\\Projeto_MVC\\Projeto_MVC\\Controllers\\ContatoController.cs",
+              "RelativeDocumentMoniker": "Projeto_MVC\\Controllers\\ContatoController.cs",
+              "ToolTip": "C:\\Users\\estud\\source\\repos\\Projeto_MVC\\Projeto_MVC\\Controllers\\ContatoController.cs",
+              "RelativeToolTip": "Projeto_MVC\\Controllers\\ContatoController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAIwHIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T23:44:56.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Criar.cshtml",
+              "DocumentMoniker": "C:\\Users\\estud\\source\\repos\\Projeto_MVC\\Projeto_MVC\\Views\\Contato\\Criar.cshtml",
+              "RelativeDocumentMoniker": "Projeto_MVC\\Views\\Contato\\Criar.cshtml",
+              "ToolTip": "C:\\Users\\estud\\source\\repos\\Projeto_MVC\\Projeto_MVC\\Views\\Contato\\Criar.cshtml",
+              "RelativeToolTip": "Projeto_MVC\\Views\\Contato\\Criar.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAgwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T01:39:56.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\estud\\source\\repos\\Projeto_MVC\\Projeto_MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Projeto_MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\estud\\source\\repos\\Projeto_MVC\\Projeto_MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Projeto_MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T21:10:42.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\estud\\source\\repos\\Projeto_MVC\\Projeto_MVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Projeto_MVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\estud\\source\\repos\\Projeto_MVC\\Projeto_MVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Projeto_MVC\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T14:46:48.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\estud\\source\\repos\\Projeto_MVC\\Projeto_MVC\\Program.cs",
+              "RelativeDocumentMoniker": "Projeto_MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\estud\\source\\repos\\Projeto_MVC\\Projeto_MVC\\Program.cs",
+              "RelativeToolTip": "Projeto_MVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T20:56:45.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\estud\\source\\repos\\Projeto_MVC\\Projeto_MVC\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Projeto_MVC\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\estud\\source\\repos\\Projeto_MVC\\Projeto_MVC\\appsettings.Development.json",
+              "RelativeToolTip": "Projeto_MVC\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-10T21:54:05.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AgendaContext.cs",
+              "DocumentMoniker": "C:\\Users\\estud\\source\\repos\\Projeto_MVC\\Projeto_MVC\\Context\\AgendaContext.cs",
+              "RelativeDocumentMoniker": "Projeto_MVC\\Context\\AgendaContext.cs",
+              "ToolTip": "C:\\Users\\estud\\source\\repos\\Projeto_MVC\\Projeto_MVC\\Context\\AgendaContext.cs",
+              "RelativeToolTip": "Projeto_MVC\\Context\\AgendaContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T21:51:27.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Contato.cs",
+              "DocumentMoniker": "C:\\Users\\estud\\source\\repos\\Projeto_MVC\\Projeto_MVC\\Models\\Contato.cs",
+              "RelativeDocumentMoniker": "Projeto_MVC\\Models\\Contato.cs",
+              "ToolTip": "C:\\Users\\estud\\source\\repos\\Projeto_MVC\\Projeto_MVC\\Models\\Contato.cs",
+              "RelativeToolTip": "Projeto_MVC\\Models\\Contato.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T21:50:33.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\estud\\source\\repos\\Projeto_MVC\\Projeto_MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Projeto_MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\estud\\source\\repos\\Projeto_MVC\\Projeto_MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Projeto_MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T20:58:57.303Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 387,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
