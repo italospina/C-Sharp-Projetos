@@ -1,0 +1,66 @@
+﻿@model Projeto_Gerenciador_De_Tarefas.Models.Tarefa
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewData["Title"] = "Editar Tarefa";
+}
+
+<h1>
+    Editar Tarefa
+</h1>
+
+<hr />
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Editar">
+
+            <!-- Campo de entrada para o Titulo do contato. -->
+            <div class="form-group">
+                <label asp-for="Titulo" class="control-label"></label>
+                <input asp-for="Titulo" class="form-control" />
+            </div>
+
+            <!-- Campo de entrada para o Descricao do contato. -->
+            <div class="form-group">
+                <label asp-for="Descricao" class="control-label"></label>
+                <textarea asp-for="Descricao" class="form-control" rows="5" cols="50"></textarea>
+            </div>
+
+            <!-- Campo de entrada para o Data do contato -->
+            <div class="form-group">
+                <!-- Campo de entrada para o Data do contato -->
+                <div class="form-group">
+                    <label asp-for="Data" class="control-label"></label>
+                    <input asp-for="Data" class="form-control" type="text" placeholder="dd/MM/yyyy" maxlength="10" />
+                    <span asp-validation-for="Data" class="text-danger"></span>
+                </div>
+
+
+            </div>
+
+            <!-- Campo de entrada para o Status do contato (DropDownList para enum) -->
+            <div class="form-group">
+                <label asp-for="Status" class="control-label"></label>
+                <select asp-for="Status" class="form-control" asp-items="Html.GetEnumSelectList<Status>()"></select>
+            </div>
+
+            <br />
+
+            <div class="form-group">
+                <button type="submit" class="btn btn-primary">
+                    <i class="fas fa-edit"></i> Editar
+                </button>
+            </div>
+        </form>
+    </div>
+</div>
+
+<br />
+
+<div>
+    <a asp-action="Index" class="btn btn-light">
+        <i class="fas fa-arrow-left"></i> Voltar
+    </a>
+</div>
+

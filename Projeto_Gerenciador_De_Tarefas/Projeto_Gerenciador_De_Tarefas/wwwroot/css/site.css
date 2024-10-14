@@ -1,0 +1,263 @@
+html, body {
+    height: 100%; /* Garante que o html e body ocupem 100% da altura */
+    margin: 0; /* Remove as margens */
+    padding: 0; /* Remove qualquer padding */
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Define a altura mínima da página para ocupar a viewport */
+}
+
+main {
+    flex: 1; /* Faz o main expandir para ocupar o espaço disponível */
+}
+
+/*
+------------------
+----background----
+------------------
+*/
+/* Modo claro (padrão) */
+body {
+    background-color: white !important;
+    color: #333333; /* Texto escuro para modo claro */
+}
+
+    /* Modo escuro */
+    body.dark-mode {
+        background-color: #121212 !important; /* Fundo escuro */
+        color: #e0e0e0 !important; /* Texto claro no modo escuro */
+    }
+
+/*
+--------------
+----BOTAO-----
+--------------
+*/
+/* Estilo para botões no modo claro */
+.btn {
+    color: #000000 !important; /* Texto preto no modo claro */
+    border: 0.5px solid black;
+}
+
+/* Estilo para botões no modo escuro */
+body.dark-mode .btn {
+    color: #000000 !important; /* Texto branco no modo escuro */
+}
+
+
+/*
+--------------
+----NAVBAR----
+--------------
+*/
+/* Navbar no modo claro */
+.navbar-light {
+    background-color: #f8f9fa; /* Fundo claro */
+    color: #333333; /* Texto escuro no modo claro */
+}
+
+    .navbar-light .navbar-nav .nav-link {
+        color: #333333; /* Links no modo claro */
+    }
+
+/* Navbar no modo escuro */
+body.dark-mode .navbar-light {
+    background-color: #1a1a1a !important; /* Fundo escuro */
+    color: #e0e0e0 !important; /* Texto claro */
+}
+
+    body.dark-mode .navbar-light .navbar-nav .nav-link {
+        color: #e0e0e0 !important; /* Links claros no modo escuro */
+    }
+
+/* Navbar-brand no modo claro */
+.navbar-light .navbar-brand {
+    color: #333333 !important; /* Texto escuro no navbar-brand no modo claro */
+}
+
+/* Navbar-brand no modo escuro */
+body.dark-mode .navbar-light .navbar-brand {
+    color: #e0e0e0 !important; /* Texto claro no navbar-brand no modo escuro */
+}
+
+
+/*
+--------------
+----FOOTER----
+--------------
+*/
+footer {
+    background-color: #f8f9fa;
+    text-align: left;
+    padding: 1rem 0;
+    width: 100%;
+    /* Faz o footer ficar fixo na parte inferior */
+    position: absolute fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 10; /* Garante que o footer fique acima de outros elementos */
+}
+
+/* Footer no modo claro */
+.footer {
+    background-color: #f8f9fa; /* Fundo claro */
+    color: #333333; /* Texto escuro no modo claro */
+}
+
+    .footer a {
+        color: #0066cc; /* Links no modo claro */
+    }
+
+/* Footer no modo escuro */
+body.dark-mode .footer {
+    background-color: #1a1a1a; /* Fundo escuro */
+    color: #e0e0e0 !important; /* Texto claro no modo escuro */
+}
+
+    body.dark-mode .footer a {
+        color: #1e90ff !important; /* Links claros no modo escuro */
+    }
+
+/*
+--------------
+-----BODY-----
+--------------
+*/
+/* Modo escuro */
+body.dark-mode a {
+    color: #1e90ff; /* Azul claro no modo escuro */
+}
+
+    body.dark-mode a:hover, body.dark-mode a:focus {
+        color: #0073e6; /* Azul mais escuro no modo escuro ao passar o mouse */
+    }
+
+/*
+--------------------
+-----FORM GROUP-----
+--------------------
+*/
+/* Modo claro */
+.form-group {
+    background-color: #ffffff; /* Fundo claro */
+    color: #333333; /* Texto escuro no modo claro */
+}
+
+/* Modo escuro */
+body.dark-mode .form-group {
+    background-color: #121212; /* Fundo escuro */
+    color: #e0e0e0; /* Texto claro no modo escuro */
+}
+
+/*
+------------------------
+----TABELA CONTEINER----
+------------------------
+*/
+/* CSS para habilitar barra de rolagem apenas na tabela */
+.table-container {
+    max-height: 600px; /* Altura máxima da tabela */
+    overflow-y: auto; /* Habilita rolagem vertical se o conteúdo exceder a altura */
+}
+
+table {
+    width: 100%; /* Garante que a tabela ocupe 100% da largura do contêiner */
+    border-collapse: collapse; /* Mantém as bordas da tabela juntas */
+}
+
+/*
+--------------
+----TABELA----
+--------------
+*/
+/* Estilo para tabelas no modo claro */
+table {
+    background-color: white;
+    color: #333333;
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+    border-color:black;
+    border: 2px solid black;
+}
+
+    table th, table td {
+        padding: 10px;
+        border: 1px solid #dddddd; /* Borda clara no modo claro */
+    }
+
+    table th {
+        background-color: #f8f9fa; /* Fundo claro para o cabeçalho no modo claro */
+        color: #333333; /* Texto escuro no cabeçalho no modo claro */
+    }
+
+    table tr:nth-child(even) {
+        background-color: #f2f2f2; /* Listras claras em linhas alternadas */
+    }
+
+/* Estilo para tabelas no modo escuro */
+body.dark-mode table {
+    background-color: #1a1a1a;
+    color: #e0e0e0;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+    body.dark-mode table th, body.dark-mode table td {
+        padding: 10px;
+        border: 1px solid #333333; /* Borda escura no modo escuro */
+    }
+
+    body.dark-mode table th {
+        background-color: #333333; /* Fundo escuro para o cabeçalho no modo escuro */
+        color: #e0e0e0; /* Texto claro no cabeçalho no modo escuro */
+    }
+
+    body.dark-mode table tr:nth-child(even) {
+        background-color: #2a2a2a; /* Listras escuras em linhas alternadas no modo escuro */
+    }
+
+    body.dark-mode table tr:nth-child(odd) {
+        background-color: #1a1a1a; /* Fundo principal no modo escuro */
+    }
+
+/*
+-----------------
+----PARAGRAFO----
+-----------------
+*/
+.text-center p {
+    line-height: 1.4; /* Ajusta o espaçamento entre os parágrafos */
+    margin-bottom: 10px; /* Ajusta a margem inferior */
+    text-align:left;
+}
+
+.text h1, h3 {
+    text-align: left;
+}
+/* Modo claro (padrão) */
+dt {
+    background-color: #ffffff; /* Cor de fundo padrão (modo claro) */
+    color: #000000; /* Cor do texto padrão (modo claro) */
+}
+
+/* Modo escuro */
+body.dark-mode dt {
+    background-color: #333333; /* Fundo escuro */
+    color: #ffffff; /* Texto claro */
+}
+
+dd {
+    background-color: #f8f8f8; /* Cor de fundo padrão (modo claro) */
+    color: #000000; /* Cor do texto padrão (modo claro) */
+}
+
+/* Modo escuro */
+body.dark-mode dd {
+    background-color: #444444; /* Fundo escuro */
+    color: #e0e0e0; /* Texto claro */
+}

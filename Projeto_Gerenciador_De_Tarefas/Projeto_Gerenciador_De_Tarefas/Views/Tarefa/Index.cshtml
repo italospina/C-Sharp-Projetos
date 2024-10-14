@@ -1,0 +1,82 @@
+﻿@model IEnumerable<Projeto_Gerenciador_De_Tarefas.Models.Tarefa>
+
+@{
+    ViewData["Title"] = "Gerenciador De Tarefas";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Tarefas</h2>
+
+<a asp-action="Criar" class="btn btn-success mb-3">
+    <i class="fas fa-plus"></i> Nova Tarefa
+</a>
+
+
+<br />
+<div class="table-container">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(Model => Model.Id)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(Model => Model.Titulo)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(Model => Model.Descricao)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(Model => Model.Data)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(Model => Model.Status)
+                </th>
+                <th>
+                    <!-- Coluna vazia para ações (Editar, Detalhes, Deletar). -->
+                    Ações
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(Model => item.Id)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(Model => item.Titulo)
+                    </td>
+                    <td>
+                        @{
+                            var descricao = item.Descricao;
+                            var descricaoCurta = descricao.Length > 30
+                            ? descricao.Substring(0, 30) + "..."
+                            : descricao;
+                        }
+                        @descricaoCurta
+                    </td>
+                    <td>
+                        @Html.DisplayFor(Model => item.Data)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(Model => item.Status)
+                    </td>
+                    <td>
+                        <!-- Botões com ícones Font Awesome -->
+                        <a asp-action="Editar" asp-route-id="@item.Id" class="btn btn-primary" title="Editar esta tarefa">
+                            <i class="fas fa-edit"></i> Editar
+                        </a>
+                        <a asp-action="Detalhes" asp-route-id="@item.Id" class="btn btn-info" title="Ver os detalhes desta tarefa">
+                            <i class="fas fa-info-circle"></i> Detalhes
+                        </a>
+                        <a asp-action="Deletar" asp-route-id="@item.Id" class="btn btn-danger" title="Excluir esta tarefa">
+                            <i class="fas fa-trash-alt"></i> Deletar
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
