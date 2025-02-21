@@ -8,13 +8,18 @@ Os projetos estão organizados em diretórios separados, cada um contendo seu pr
 
 ## 🚀 Projetos Incluídos
 
-Alguns dos projetos disponíveis neste repositório incluem:
-
-- **Projeto 1:** [Descrição breve do projeto 1]
-- **Projeto 2:** [Descrição breve do projeto 2]
-- **Projeto 3:** [Descrição breve do projeto 3]
-
-*(Adicione mais detalhes sobre os projetos específicos conforme necessário)*
+- **Projeto_Hospedagem:** Sistema para gerenciamento de hospedagens, permitindo cadastro, consulta e remoção de reservas.
+- **Projeto_MVC:** Implementação de um padrão Model-View-Controller em uma aplicação ASP.NET.
+- **ProjetosEstacionamento:** Sistema para controle de entrada e saída de veículos em um estacionamento.
+- **TempoDoElfoDobby:** Aplicação que calcula tempo baseado em entradas específicas relacionadas ao universo de Harry Potter.
+- **Projeto_Gerenciador_De_Tarefas:** Um sistema que permite adicionar, remover e visualizar tarefas pendentes e concluídas.
+- **Projeto_Biblioteca:** Sistema de gerenciamento de livros, incluindo cadastro de usuários e empréstimos.
+- **Projeto_Abstrair_Celular:** Simulação de um celular com funcionalidades básicas como chamadas e mensagens.
+- **Modulo_Dio_Api:** Módulo para integração com APIs externas dentro do ecossistema .NET.
+- **Modelo_DIO_API:** Estrutura base para desenvolvimento de APIs REST em ASP.NET Core.
+- **HorasMinutosSegundos:** Conversor de tempo que realiza cálculos entre horas, minutos e segundos.
+- **Exemplos_Esplorando:** Conjunto de exemplos exploratórios para aprendizado e testes em C#.
+- **AnosMesesDias:** Aplicação que converte períodos de tempo em diferentes unidades.
 
 ## 🛠️ Tecnologias Utilizadas
 
